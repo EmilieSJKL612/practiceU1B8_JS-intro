@@ -33,7 +33,7 @@
    3. `-8 * -2`
    4. `4 + 1 * 4` => 8, which is different from the rest
 7. Write three different expressions that evaluate to 64. 
-=> `8**2` , `2*30+4` , `7*10-4` , `8*8` 
+=> `8**2` , `2*30+4` , `7*10-6` , `8*8` , `2**6`
 
 ## Use the modulo operator
 
